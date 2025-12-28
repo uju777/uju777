@@ -2,10 +2,7 @@
 
 # Hey, I'm Yuju 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Mobile+App+Creator;Always+Learning+New+Tech)](https://git.io/typing-svg)
-
-<img src="https://github-readme-stats.vercel.app/api?username=uju777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uju777&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Mobile+App+Creator;Full+Stack+Creator;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,17 +22,11 @@
 
 ---
 
-### 📊 Activity
-
-```text
-🔥 Building cool stuff...
-```
-
----
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-uju777-181717?style=for-the-badge&logo=github)](https://github.com/uju777)
+```
+🔥 Building cool stuff...
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
 
