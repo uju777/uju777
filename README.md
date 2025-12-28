@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=3000&pause=1500&color=33FF33&center=true&vCenter=true&repeat=true&width=550&height=50&lines=%3E+Talk+is+cheap.+Show+me+the+code.;%3E+Simplicity+is+the+soul+of+efficiency.;%3E+Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3000&pause=1500&color=33FF33&center=true&vCenter=true&repeat=true&width=650&height=80&lines=%3E+Talk+is+cheap.+Show+me+the+code.;%3E+Simplicity+is+the+soul+of+efficiency.;%3E+Make+it+work%2C+make+it+right%2C+make+it+fast.)](https://git.io/typing-svg)
 
 ```
                         ██████████████
