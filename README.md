@@ -2,16 +2,7 @@
 
 <div align="center">
 
-```
- ██████╗██████╗ ███████╗ █████╗ ████████╗ ██████╗ ██████╗
-██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
-██║     ██████╔╝█████╗  ███████║   ██║   ██║   ██║██████╔╝
-██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██║   ██║██╔══██╗
-╚██████╗██║  ██║███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║
- ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=%3E+Mobile+App+Creator;%3E+Full+Stack+Creator;%3E+Always+Learning+New+Tech;%3E+Building+The+Future...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&duration=4000&pause=2000&color=06B6D4&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;%22Simplicity+is+the+soul+of+efficiency.%22+-+Austin+Freeman;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,7 +26,6 @@
 
 ```js
 const yuju = {
-    pronouns: "they" | "them",
     code: ["TypeScript", "Python", "JavaScript"],
     focus: "Creating digital experiences",
     current: "Building something cool...",
