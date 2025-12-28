@@ -23,8 +23,8 @@
 
 ### ⟨ TECH_STACK ⟩
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,7 +36,7 @@
 ```js
 const yuju = {
     pronouns: "they" | "them",
-    code: ["TypeScript", "Python", "Dart"],
+    code: ["TypeScript", "Python", "JavaScript"],
     focus: "Creating digital experiences",
     current: "Building something cool...",
 };
