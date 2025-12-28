@@ -1,15 +1,29 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2000&pause=500&color=33FF33&center=true&vCenter=true&random=false&width=700&height=200&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91++++++++++YUJU+TERMINAL+v1.0++++++++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D;SYSTEM+READY...;%3E_)](https://git.io/typing-svg)
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                    YUJU TERMINAL v1.0                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=3000&pause=1500&color=33FF33&center=true&vCenter=true&random=false&width=600&height=30&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;%22Simplicity+is+the+soul+of+efficiency.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3500&pause=2000&color=33FF33&center=true&vCenter=true&repeat=true&width=550&height=35&lines=%3E+%EB%A7%90%EC%9D%80+%EC%8B%B8%EB%8B%A4.+%EC%BD%94%EB%93%9C%EB%A1%9C+%EB%B3%B4%EC%97%AC%EC%A4%98.+-+Linus+Torvalds;%3E+%EB%8B%A8%EC%88%9C%ED%95%A8%EC%9D%B4+%ED%9A%A8%EC%9C%A8%EC%9D%98+%EC%98%81%ED%98%BC%EC%9D%B4%EB%8B%A4.;%3E+%EC%9D%BC%EB%8B%A8+%EB%8F%8C%EC%95%84%EA%B0%80%EA%B2%8C%2C+%EA%B7%B8+%EB%8B%A4%EC%9D%8C+%EC%A0%9C%EB%8C%80%EB%A1%9C%2C+%EA%B7%B8+%EB%8B%A4%EC%9D%8C+%EB%B9%A0%EB%A5%B4%EA%B2%8C.)](https://git.io/typing-svg)
 
----
+```
+┌────────────────────────────────────────────────────────────┐
+│  SYSTEM.INFO                                               │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  > STACK    : React Native, Expo, TypeScript               │
+│  > RUNTIME  : Node.js, Python                              │
+│  > STATUS   : Building something cool...                   │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=50&pause=3000&color=33FF33&center=true&vCenter=true&random=false&width=500&height=120&lines=%5BSYSTEM.INFO%5D;%3E+TECH_STACK%3A+React+Native%2C+Expo;%3E+LANGUAGES%3A+TypeScript%2C+Python%2C+JS;%3E+RUNTIME%3A+Node.js;%3E+STATUS%3A+Building+something+cool...)](https://git.io/typing-svg)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=16&duration=2000&pause=500&color=33FF33&center=true&vCenter=true&random=false&width=300&height=30&lines=%5BEOF%5D;CONNECTION+TERMINATED...;GOODBYE+_)](https://git.io/typing-svg)
+```
+[ EOF ]
+```
 
 </div>
